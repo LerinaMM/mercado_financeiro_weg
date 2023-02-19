@@ -10,6 +10,8 @@ Ao longo das décadas seguintes, a WEG ampliou sua linha de produtos e passou a 
 
 Atualmente, a WEG é uma das maiores fabricantes de motores elétricos do mundo, com operações em mais de 135 países. A empresa conta com mais de 30 mil colaboradores e possui uma ampla gama de produtos e soluções para diversos setores, como energia, mineração, siderurgia, papel e celulose, entre outros. Além disso, a WEG investe em inovação e sustentabilidade, desenvolvendo tecnologias que contribuem para a preservação do meio ambiente e para a eficiência energética.
 
+Fonte: Chat GPT
+
 # Dicionário de Dados
 
 Date - Data do dia 
