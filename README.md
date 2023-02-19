@@ -13,6 +13,9 @@ Atualmente, a WEG é uma das maiores fabricantes de motores elétricos do mundo,
 # Dicionário de Dados
 
 Open - Preço de abertura
+
 High - Maior preço da ação naquele dia
+
 Low - Menor preço da ação naquele dia
+
 Volume - Quantidade de ações comercializadas naquele dia
