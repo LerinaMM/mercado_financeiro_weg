@@ -1,6 +1,6 @@
 # mercado_financeiro_weg
 
-Projeto realizado a partir da semana de Python do Odemir Delpieri onde extrai dados de ações do mercado financeiro Brasileiro, ação analisada foi da empresa WEG3 localizada na cidade de Jaraguá do Sul/SC
+Projeto realizado a partir da semana de Python do Odemir Delpieri onde extrai dados de ações do mercado financeiro Brasileiro, ação analisada foi da empresa WEG3 localizada na cidade de Jaraguá do Sul/SC. Os dados coletados foram referentes aos ultimos # 5 anos.
 
 A WEG é uma empresa brasileira que iniciou suas atividades em 1961, na cidade de Jaraguá do Sul, em Santa Catarina. Seus fundadores foram Werner Voigt, Eggon João da Silva e Geraldo Werninghaus, que decidiram criar uma fábrica de motores elétricos.
 
