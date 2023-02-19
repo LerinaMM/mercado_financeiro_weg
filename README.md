@@ -9,3 +9,10 @@ No início, a WEG contava com uma equipe de apenas dez funcionários e produzia 
 Ao longo das décadas seguintes, a WEG ampliou sua linha de produtos e passou a fabricar transformadores, geradores, painéis elétricos, entre outros equipamentos elétricos. A empresa também expandiu suas operações para outras regiões do Brasil e para o exterior, inaugurando unidades produtivas em diversos países.
 
 Atualmente, a WEG é uma das maiores fabricantes de motores elétricos do mundo, com operações em mais de 135 países. A empresa conta com mais de 30 mil colaboradores e possui uma ampla gama de produtos e soluções para diversos setores, como energia, mineração, siderurgia, papel e celulose, entre outros. Além disso, a WEG investe em inovação e sustentabilidade, desenvolvendo tecnologias que contribuem para a preservação do meio ambiente e para a eficiência energética.
+
+# Dicionário de Dados
+
+Open - Preço de abertura
+High - Maior preço da ação naquele dia
+Low - Menor preço da ação naquele dia
+Volume - Quantidade de ações comercializadas naquele dia
