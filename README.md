@@ -16,6 +16,10 @@ Atualmente, a WEG é uma das maiores fabricantes de motores elétricos do mundo,
 
 Fonte: Chat GPT
 
+# 💪 Fonte
+
+Yahoo Finance - https://finance.yahoo.com/ - Informações coletadas diretamente da API
+
 # 💾 Dados
 
 | Column     | Description              |
@@ -26,8 +30,6 @@ Fonte: Chat GPT
 | `Low` | Menor preço da ação naquele dia. |
 | `Volume` | Quantidade de ações comercializadas naquele dia. |
 
-# 💪 Fonte
 
-Yahoo Finance - https://finance.yahoo.com/ - Informações coletadas diretamente da API
 
 
