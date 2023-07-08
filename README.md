@@ -1,6 +1,6 @@
 ![image](https://github.com/LerinaMM/mercado_financeiro_weg/assets/83770121/8da29bcc-4ad7-4d94-b93d-a67abe29c13d)
 
-# Ações WEG (WEGE4)
+# ✅ Ações WEG (WEGE4)
 
 Projeto realizado a partir da semana de Python do Odemir Depieri onde foram extraidos os dados de ação do mercado financeiro Brasileiro. A ação escolhida, foi da empresa WEG(WEGE3) localizada na cidade de Jaraguá do Sul/SC. Os dados coletados foram referentes aos ultimos # 5 anos.
 
