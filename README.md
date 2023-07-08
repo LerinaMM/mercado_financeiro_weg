@@ -1,6 +1,10 @@
+![image](https://github.com/LerinaMM/mercado_financeiro_weg/assets/83770121/8da29bcc-4ad7-4d94-b93d-a67abe29c13d)
+
 # mercado_financeiro_weg
 
 Projeto realizado a partir da semana de Python do Odemir Depieri onde foram extraidos os dados de ação do mercado financeiro Brasileiro. A ação escolhida, foi da empresa WEG(WEGE3) localizada na cidade de Jaraguá do Sul/SC. Os dados coletados foram referentes aos ultimos # 5 anos.
+
+# 📖 WEG e sua História
 
 A WEG é uma empresa brasileira que iniciou suas atividades em 1961, na cidade de Jaraguá do Sul, em Santa Catarina. Seus fundadores foram Werner Voigt, Eggon João da Silva e Geraldo Werninghaus, que decidiram criar uma fábrica de motores elétricos.
 
@@ -12,14 +16,18 @@ Atualmente, a WEG é uma das maiores fabricantes de motores elétricos do mundo,
 
 Fonte: Chat GPT
 
-# Dicionário de Dados
+# 💾 Dados
 
-Date - Data do dia 
+| Column     | Description              |
+|------------|--------------------------|
+| `Date` | Data do dia da negociação da ação |
+| `Open` | Preço de abertura da negociação. |
+| `High` | Maior preço da ação naquele dia. |
+| `Low` | Menor preço da ação naquele dia. |
+| `Volume` | Quantidade de ações comercializadas naquele dia. |
 
-Open - Preço de abertura
+# 💪 Fonte
 
-High - Maior preço da ação naquele dia
+Yahoo Finance - https://finance.yahoo.com/ - Informações coletadas diretamente da API
 
-Low - Menor preço da ação naquele dia
 
-Volume - Quantidade de ações comercializadas naquele dia
